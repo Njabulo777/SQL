@@ -317,7 +317,7 @@ GROUP BY payment_status
 ORDER BY amount DESC
 ```
 
-## Payment Statement Visualization
+## Payment Status Visualization
 
 The pie chart below visualizes the proportions of the different payment
 statuses in the database.
