@@ -1,8 +1,7 @@
 ---
 title: "Marketing Effectiveness Study - Fruitazia"
-author: "Njabulo Hlabangana"
-date: "2022-10-08"
-output: html_document
+author: "By Njabulo Hlabangana"
+output: github_document
 ---
 
 ```{r setup, include=FALSE}
@@ -36,7 +35,7 @@ In the data, each out of 30 rows encodes experiment description per supermarket,
 
 ## Data summary
 
-The code below shows the mean sales by for each price level and associated ad spending.
+The code below shows the mean sales for each price level and associated ad spending.
 
 ```{r, message= FALSE, warning= FALSE}
 library(knitr)
